@@ -41,7 +41,7 @@ body {
    HEADER
 ========================= */
 
-.site-header {
+.main-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -411,7 +411,7 @@ tr.rainy:hover {
    FOOTER
 ========================= */
 
-.site-footer {
+.main-footer {
   margin-top: 55px;
 
   padding: 25px 0 5px;
@@ -436,7 +436,7 @@ tr.rainy:hover {
   font-size: 1.25rem;
 }
 
-.site-footer > p {
+.site-footer>p {
   margin: 8px 0 18px;
 
   color: var(--muted);
